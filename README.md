@@ -13,6 +13,6 @@
 
 `throttle(func, timestamp)`
 
-##### 计算rem 设计稿：100px = 1rem 用于纯css场景，没有预处理的情况
+##### 计算rem ：100px(设计稿) = 1rem 用于纯css场景，没有预处理的情况
 
 `rem()`
